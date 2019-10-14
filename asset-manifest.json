@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rank-me/static/css/main.34de6062.chunk.css",
+    "main.js": "/rank-me/static/js/main.e7cedf05.chunk.js",
+    "main.js.map": "/rank-me/static/js/main.e7cedf05.chunk.js.map",
+    "runtime-main.js": "/rank-me/static/js/runtime-main.8acb19c6.js",
+    "runtime-main.js.map": "/rank-me/static/js/runtime-main.8acb19c6.js.map",
+    "static/js/2.81fed415.chunk.js": "/rank-me/static/js/2.81fed415.chunk.js",
+    "static/js/2.81fed415.chunk.js.map": "/rank-me/static/js/2.81fed415.chunk.js.map",
+    "index.html": "/rank-me/index.html",
+    "precache-manifest.adf9addbe9ffcfb6eb09bdd8c6cc4650.js": "/rank-me/precache-manifest.adf9addbe9ffcfb6eb09bdd8c6cc4650.js",
+    "service-worker.js": "/rank-me/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/rank-me/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8acb19c6.js",
+    "static/js/2.81fed415.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.e7cedf05.chunk.js"
+  ]
+}
